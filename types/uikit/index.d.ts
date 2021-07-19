@@ -292,7 +292,7 @@ export namespace UIkit {
         svg: Promise<any>;
     };
 
-    interface UIkitSwiterOptions {
+    interface UIkitSwitcherOptions {
         connect?: string | undefined;
         toggle?: string | undefined;
         active?: number | undefined;
